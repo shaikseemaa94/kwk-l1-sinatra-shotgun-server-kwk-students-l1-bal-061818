@@ -10,6 +10,5 @@ class App < Sinatra::Base
   end
   get '/info' do
     "Hello I'm sleepyy"
-  end 
+  end
 end
-
