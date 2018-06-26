@@ -8,4 +8,5 @@ class App < Sinatra::Base
   get '/' do
     "Hello I'm sleepyy"
   end
+  end
 end
