@@ -5,7 +5,7 @@ class App < Sinatra::Base
   get '/' do
     "Sinatra is cool"
   end
-  get '/info' do
+  get '/' do
     "Hello I'm sleepyy"
   end
 end
